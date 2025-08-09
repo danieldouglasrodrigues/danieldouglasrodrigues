@@ -1,8 +1,8 @@
-# \# Meu Perfil
+# Meu Perfil
 
 
 
-\## Sou Daniel
+# Sou Daniel
 
 
 
@@ -12,7 +12,7 @@
 
 
 
-\## Meus Objetivos
+# Meus Objetivos
 
 
 
