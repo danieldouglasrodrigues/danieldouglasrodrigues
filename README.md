@@ -2,7 +2,7 @@
 
 
 
-# Sou Daniel
+## Sou Daniel
 
 
 
@@ -12,7 +12,7 @@
 
 
 
-# Meus Objetivos
+## Meus Objetivos
 
 
 
