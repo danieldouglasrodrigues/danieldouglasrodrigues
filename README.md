@@ -21,8 +21,21 @@
 
 ## Minha Experiencia
 
-- Aprendizagem Ajustador Mecanico - SEENAI (JAN/2017 - JUN2018)
-  - Estudo do componente ou conjunto mecânico a ser confeccionado ou reparado, analise de desenhos, esboço de ilustrações técnicas e modelos.
+* Aprendizagem Ajustador Mecanico - SEENAI (JAN/2017 - JUN2018)
 
-- Cronoalista - IMIC (FEV/2014 - SET/2014)
-   - Planejamento, controle e programção da produção, levantamento de dados sobre tempo e suprimentos para sugerir melhorias nos processos de fabricação.
+  * Estudo do componente ou conjunto mecânico a ser confeccionado ou reparado, analise de desenhos, esboço de ilustrações técnicas e modelos.
+
+* Cronoalista - IMIC (FEV/2014 - SET/2014)
+
+  * Planejamento, controle e programção da produção, levantamento de dados sobre tempo e suprimentos para sugerir melhorias nos processos de fabricação.
+
+
+
+\## MEUS PROJETOS
+
+
+
+* Aqui estão alguns dos meus projetos e exercícios desenvolvidos ao longo do curso:
+
+🔷 Projet 1 - Em desenvolvimento...
+
